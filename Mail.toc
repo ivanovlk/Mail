@@ -5,3 +5,4 @@
 ## SavedVariablesPerCharacter: Mail_To
 ## SavedVariables: Mail_AutoCompleteNames
 Mail.xml
+Mail.lua
